@@ -27,10 +27,10 @@ This project was developed to help small and medium-sized businesses efficiently
 
 ### Sales Form  
 - Here user can enter daily record sale of the day,the date is automatic and there is a drop down for the product and category
-- The unit price and Total sale automatically update once the user enter the actual  quantity of product he need
-- fill in the customer, then drop down for the cashier
-- The user can submit the sale transaction,print reciept and can also clear the form for new entry
-- ths submitted transaction automatically update in the sale dataset
+- The unit price and Total sale automatically update once the user enter the actual  quantity of the product  he needs
+- Next fill in the customer name, then drop down for the cashier to select
+- The user can submit the sale transaction, print reciept and can also clear the form for new entry
+- ths submitted transaction automatically update in the sale dataset to enable live report on the dashboard
 
 ![Sales Form](https://github.com/Abdulrasheed055/Smart-Sales-Tracker-Excel-VBA/blob/main/form.jpg)
 
@@ -83,12 +83,11 @@ Watch how the system works from data entry to printing receipts and reviewing pr
 5. Monitor profit on the Dashboard tab
 
 ## 🤝 Contact
-
 Project by **Abdulrasheed Aminu**  
 aminuabdulrasheed055@gmail.com
-📱 +2348132628613  
-🌐 GitHub: [Your GitHub Profile]
-linkelin :https://www.linkedin.com/in/aminu-abdulrasheed-747597232/
+-  📱  +2348132628613  
+- 🌐 GitHub: [https://github.com/Abdulrasheed055]
+- linkelin :https://www.linkedin.com/in/aminu-abdulrasheed-747597232/
 
 
 ## 📌 Tips
