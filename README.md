@@ -23,14 +23,30 @@ This project was developed to help small and medium-sized businesses efficiently
 
 ## 🖼 Screenshots
 
-### 📊 Live Dashboard  Overview  
-![Sales Dashboard](https://github.com/Abdulrasheed055/Smart-Sales-Tracker-Excel-VBA/blob/main/livedasboard.jpg)
 
-### Receipt Format  
-![Receipt Sample](https://github.com/Abdulrasheed055/Smart-Sales-Tracker-Excel-VBA/blob/main/Receipt.jpg)
 
 ### Sales Form  
+- Here user can enter daily record sale of the day,the date is automatic and there is a drop down for the product and category
+- The unit price and Total sale automatically update once the user enter the actual  quantity of product he need
+- fill in the customer, then drop down for the cashier
+- The user can submit the sale transaction,print reciept and can also clear the form for new entry
+- ths submitted transaction automatically update in the sale dataset
+
 ![Sales Form](https://github.com/Abdulrasheed055/Smart-Sales-Tracker-Excel-VBA/blob/main/form.jpg)
+
+
+### Receipt Format  
+- User can automatically print this sale and convert the receipt to pDF
+
+![Receipt Sample](https://github.com/Abdulrasheed055/Smart-Sales-Tracker-Excel-VBA/blob/main/Receipt.jpg)
+
+### 📊 Live Dashboard  Overview  
+-Here live preview of our transaction is displace in the dashboard ,the user have to refresh for this to be update
+
+![Sales Dashboard](https://github.com/Abdulrasheed055/Smart-Sales-Tracker-Excel-VBA/blob/main/livedasboard.jpg)
+
+
+
 
 ## Demo Video
 
