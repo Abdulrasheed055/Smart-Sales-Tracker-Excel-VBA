@@ -23,14 +23,14 @@ This project was developed to help small and medium-sized businesses efficiently
 
 ## 🖼 Screenshots
 
-### 📊 Dashboard Overview  
-![Sales Dashboard](images/dashboard_screenshot.png)
+### 📊 Live Dashboard  Overview  
+![Sales Dashboard](https://github.com/Abdulrasheed055/Smart-Sales-Tracker-Excel-VBA/blob/main/livedasboard.jpg)
 
 ### Receipt Format  
-![Receipt Sample](images/receipt_sample.png)
+![Receipt Sample](https://github.com/Abdulrasheed055/Smart-Sales-Tracker-Excel-VBA/blob/main/Receipt.jpg)
 
 ### Sales Form  
-![Sales Form](images/sales_form.png)
+![Sales Form](https://github.com/Abdulrasheed055/Smart-Sales-Tracker-Excel-VBA/blob/main/form.jpg)
 
 ## Demo Video
 
@@ -72,6 +72,7 @@ Project by **Abdulrasheed Aminu**
 aminuabdulrasheed055@gmail.com
 📱 +2348132628613  
 🌐 GitHub: [Your GitHub Profile]
+linkelin :https://www.linkedin.com/in/aminu-abdulrasheed-747597232/
 
 
 ## 📌 Tips
