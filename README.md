@@ -34,7 +34,7 @@ This project was developed to help small and medium-sized businesses efficiently
 
 
  ### Get the Receipt pdf below of the transanction enter above
- 📥 [Download PDF]()
+ 📥 [Download PDF](https://github.com/Abdulrasheed055/Smart-Sales-Tracker-Excel-VBA/blob/main/Aminu%20transaction.pdf)
 
 
 
@@ -93,7 +93,7 @@ Project by **Abdulrasheed Aminu**
 aminuabdulrasheed055@gmail.com
 -  📱  +2348132628613  
 - 🌐 GitHub: [https://github.com/Abdulrasheed055]
-- linkelin :https://www.linkedin.com/in/aminu-abdulrasheed-747597232/
+- linkedlin :https://www.linkedin.com/in/aminu-abdulrasheed-747597232/
 
 
 ## 📌 Tips
