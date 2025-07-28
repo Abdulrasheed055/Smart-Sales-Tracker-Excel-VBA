@@ -32,6 +32,13 @@ This project was developed to help small and medium-sized businesses efficiently
 - The user can submit the sale transaction, print reciept and can also clear the form for new entry
 - ths submitted transaction automatically update in the sale dataset to enable live report on the dashboard
 
+
+ ### Get the Receipt pdf below of the transanction enter above
+ 📥 [Download PDF]()
+
+
+
+
 ![Sales Form](https://github.com/Abdulrasheed055/Smart-Sales-Tracker-Excel-VBA/blob/main/form.jpg)
 
 
@@ -44,7 +51,6 @@ This project was developed to help small and medium-sized businesses efficiently
 -Here live preview of our transaction is displace in the dashboard ,the user have to refresh for this to be update
 
 ![Sales Dashboard](https://github.com/Abdulrasheed055/Smart-Sales-Tracker-Excel-VBA/blob/main/livedasboard.jpg)
-
 
 
 
