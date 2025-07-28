@@ -33,13 +33,10 @@ This project was developed to help small and medium-sized businesses efficiently
 - ths submitted transaction automatically update in the sale dataset to enable live report on the dashboard
 
 
- ### Get the Receipt pdf below of the transanction enter above
+![Sales Form](https://github.com/Abdulrasheed055/Smart-Sales-Tracker-Excel-VBA/blob/main/form.jpg)
+### Get the Receipt pdf below of the transanction enter above
  📥 [Download PDF](https://github.com/Abdulrasheed055/Smart-Sales-Tracker-Excel-VBA/blob/main/Aminu%20transaction.pdf)
 
-
-
-
-![Sales Form](https://github.com/Abdulrasheed055/Smart-Sales-Tracker-Excel-VBA/blob/main/form.jpg)
 
 
 ### Receipt Format  
