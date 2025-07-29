@@ -57,7 +57,7 @@ Watch how the system works from data entry to printing receipts and reviewing pr
 
 [▶️ YouTube Demo](https://youtu.be/YOUR_VIDEO_ID)
 
-> Replace `YOUR_VIDEO_ID` with your actual video link
+
 
 
 
